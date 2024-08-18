@@ -9,6 +9,9 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/cornerstonian/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/cornerstonian/azure-network-protocols)
+- <b>Git</b>
+
+  - [Command Line: Bash, Git & Homebrew Project](https://github.com/cornerstonian/git-practice)
 
 <h2>📱Connect with me:</h2>
 
