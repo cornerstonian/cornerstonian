@@ -12,8 +12,8 @@
 
 <h2>📱Connect with me:</h2>
 
-[<img align="left" alt="Kelsey | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-[<img align="left" alt="Kelsey | Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
+[<img align="left" alt="Lavoisier | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img align="left" alt="Lavoisier | Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
 
 [linkedin]: https://linkedin.com/in/voiscornerstone
 [instagram]: https://www.instagram.com/voiscornerstone
