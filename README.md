@@ -14,6 +14,9 @@
   - [osTicket: Post-Installation Configuration](https://github.com/cornerstonian/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/cornerstonian/osTicket-lifecycle)
 
+- <b>Linux</b>
+  - [Linux Mint Installation on a Dedicated Windows 10 HP Laptop](https://github.com/cornerstonian/windows-to-linux-mint-install/tree/main)
+
 <b>
 <h3>🏆 Certificates:</h3>
 <a href="https://github.com/user-attachments/assets/35470bc0-3a08-4032-8c11-fb89612d6b0b">Google IT Support Professional</a>
