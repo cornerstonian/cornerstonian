@@ -20,6 +20,8 @@
 
 <b>
 <h3>🏆 Certificates:</h3>
+<a href="https://www.credly.com/badges/b0502918-25fa-4a43-815f-f4f104b38458/public_url">CompTIA Security+ </a> </br>
+  </br>
 <a href="https://github.com/user-attachments/assets/35470bc0-3a08-4032-8c11-fb89612d6b0b">Google IT Support Professional</a>
 
 <h2>📱Connect with me:</h2>
