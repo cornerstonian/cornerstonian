@@ -2,7 +2,7 @@
 
 <h2>👨🏾‍💻 Information Technology Projects:</h2>
 
-- <b>Microsoft Azure</b>
+- <b>Cloud</b>
   - [Web Development: Deploy a Website in the Cloud Using Azure and GitHub (Automation, CI/CD)](https://github.com/cornerstonian/portfolio-website/blob/main/README.md)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/cornerstonian/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/cornerstonian/azure-network-protocols)
@@ -10,7 +10,7 @@
 - <b>Git</b>
   - [Command Line: Bash, Git & Homebrew Project](https://github.com/cornerstonian/git-practice)
  
-- <b>osTicket (Open Source Help Desk Ticketing System)</b>
+- <b>IT Suport: osTicket (Open Source Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/cornerstonian/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/cornerstonian/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/cornerstonian/osTicket-lifecycle)
