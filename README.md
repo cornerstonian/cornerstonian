@@ -3,7 +3,7 @@
 <h2>👨🏾‍💻 Information Technology Projects:</h2>
 
 - <b>Cybersecurity</b>
-  -  SOC and Honeynet Implementation in Azure
+  -  SOC and Honeynet Implementation in Azure (Working on currently)
      
 - <b>Cloud</b>
   - [Web Development: Deploy a Website in the Cloud Using Azure and GitHub (Automation, CI/CD)](https://github.com/cornerstonian/portfolio-website/blob/main/README.md)
