@@ -2,6 +2,9 @@
 
 <h2>👨🏾‍💻 Information Technology Projects:</h2>
 
+- <b>Networking</b> ... ⌛
+Loading 
+
 - <b>Cybersecurity</b>
   -  SOC and Honeynet Implementation in Azure (Working on currently)
      
