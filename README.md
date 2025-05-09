@@ -8,7 +8,7 @@
   -  SOC and Honeynet Implementation in Azure (Current: coming soon)
      
 - <b>Cloud</b>
-  - [Web Development: Deploy a Website in the Cloud Using Azure and GitHub (Automation, CI/CD)](https://github.com/cornerstonian/portfolio-website/blob/main/README.md)
+  - [Cloud Website Deployment with Azure & GitHub (Automation, CI/CD, and Intro to DevOps Practices)](https://github.com/cornerstonian/portfolio-website/blob/main/README.md)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/cornerstonian/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/cornerstonian/azure-network-protocols)
 
