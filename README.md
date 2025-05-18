@@ -2,10 +2,13 @@
 
 <h2>👨🏾‍💻 Information Technology Projects:</h2>
 
+- <b>Automation</b>
+  - No-code Information Automation Network Project 
+
 - <b>Networking</b> ⌛ Loading
 
 - <b>Cybersecurity</b>
-  -  SOC and Honeynet Implementation in Azure (Current: coming soon)
+  - SOC and Honeynet Implementation in Azure (Current: coming soon)
      
 - <b>Cloud</b>
   - [Cloud Website Deployment with Azure & GitHub (Automation, CI/CD, and Intro to DevOps Practices)](https://github.com/cornerstonian/portfolio-website/blob/main/README.md)
