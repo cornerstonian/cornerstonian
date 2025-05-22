@@ -3,7 +3,7 @@
 <h2>👨🏾‍💻 Information Technology Projects:</h2>
 
 - <b>Automation</b>
-  - No-code Information Automation Network Project 
+  - [Information Automation Network (no-code / low-code project)](https://github.com/cornerstonian/info-automation-network/blob/main/README.md)
 
 - <b>Networking</b> ⌛ Loading
 
