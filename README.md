@@ -1,14 +1,14 @@
-<h1>Hi, I'm Lavoisier, an <a href="https://www.linkedin.com/in/voiscornerstone/">IT Professional</a> 👋🏾</h1>
+<h1>Hi, I'm Lavoisier, an <a href="https://www.linkedin.com/in/voiscornerstone/">Entry-Levle Network & IT Professional</a> 👋🏾</h1>
 
 <h2>👨🏾‍💻 Information Technology Projects:</h2>
+
+- <b>Networking</b> ⌛ Loading
 
 - <b>Automation</b>
   - [Information Automation Network (Airtable, IFTTT, Telegram, RSS)](https://github.com/cornerstonian/info-automation-network/blob/main/README.md)
 
-- <b>Networking</b> ⌛ Loading
-
 - <b>Cybersecurity</b>
-  - SOC and Honeynet Implementation in Azure (Current: coming soon)
+  - SOC and Honeynet Implementation in Azure (coming soon)
      
 - <b>Cloud</b>
   - [Cloud Website Deployment with Azure & GitHub (Automation, CI/CD, and Intro to DevOps Practices)](https://github.com/cornerstonian/portfolio-website/blob/main/README.md)
