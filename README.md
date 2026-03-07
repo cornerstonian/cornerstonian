@@ -2,11 +2,14 @@
 
 <h2>👨🏾‍💻 Information Technology Projects:</h2>
 
-- <b>Networking</b> ⌛ Loading
+- <b>Networking</b>
+  - [NetOps CCNA Homelab (Physical)](https://github.com/cornerstonian/netops-ccna-homelab)
 
-- <b>Automation</b>
-  - [Information Automation Network (Airtable, IFTTT, Telegram, RSS)](https://github.com/cornerstonian/info-automation-network/blob/main/README.md)
-
+- <b>IT Suport: osTicket (Open Source Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/cornerstonian/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/cornerstonian/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/cornerstonian/osTicket-lifecycle)
+ 
 - <b>Cybersecurity</b>
   - SOC and Honeynet Implementation in Azure (coming soon)
      
@@ -18,10 +21,8 @@
 - <b>Git</b>
   - [Command Line: Bash, Git & Homebrew Project](https://github.com/cornerstonian/git-practice)
  
-- <b>IT Suport: osTicket (Open Source Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/cornerstonian/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/cornerstonian/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/cornerstonian/osTicket-lifecycle)
+- <b>Automation</b>
+  - [Information Automation Network (Airtable, IFTTT, Telegram, RSS)](https://github.com/cornerstonian/info-automation-network/blob/main/README.md)
 
 - <b>Linux</b>
   - [Linux Mint Installation on a Dedicated Windows 10 HP Laptop](https://github.com/cornerstonian/windows-to-linux-mint-install/tree/main)
