@@ -5,7 +5,7 @@
 - <b>Networking</b>
   - [NetOps CCNA Homelab (Physical)](https://github.com/cornerstonian/netops-ccna-homelab)
 
-- <b>IT Suport: osTicket (Open Source Help Desk Ticketing System)</b>
+- <b>IT Support: osTicket (Open Source Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/cornerstonian/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/cornerstonian/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/cornerstonian/osTicket-lifecycle)
