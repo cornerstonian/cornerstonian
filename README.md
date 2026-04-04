@@ -5,6 +5,8 @@
 
 - <b>Web</b>
   - [lavoisier.dev — IT Portfolio Site](https://github.com/cornerstonian/big-net-cloud-sec-portfolio) → Live: [lavoisier.dev](https://lavoisier.dev)
+  - [blog.lavoisier.dev — Technical Blog](https://github.com/cornerstonian/blog-network-panache) (React + Vite) → Live: [blog.lavoisier.dev](https://blog.lavoisier.dev)
+  - [links.lavoisier.dev](https://github.com/cornerstonian/lavoisier-dev-landing-page) — Link Hub-Landing Page → Live: [links.lavoisier.dev](http://links.lavoisier.dev)
     
 - <b>Networking</b>
   - [NetOps CCNA Homelab (Physical)](https://github.com/cornerstonian/netops-ccna-homelab)
