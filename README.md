@@ -10,6 +10,8 @@
   - [NetOps CCNA Homelab (Physical)](https://github.com/cornerstonian/netops-ccna-homelab)
   -  [CCNA Command Center — Browser-Based IOS Simulator](https://github.com/cornerstonian/ccna-command-center)
    → Live app: [ccna-command-center.vercel.app](https://ccna-command-center.vercel.app)
+  - [Wireshark: Traffic Analysis (CCNA)](https://github.com/cornerstonian/wireshark-traffic-analysis-ccna)
+
 
 - <b>IT Support: osTicket (Open Source Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/cornerstonian/osticket-prereqs)
