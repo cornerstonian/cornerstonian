@@ -1,4 +1,4 @@
-<h1>Hi, I'm Lavoisier, a <a href="https://www.linkedin.com/in/voiscornerstone/">Network & IT Professional</a> 👋🏾</h1>
+<h1>Hi, I'm Lavoisier, a <a href="https://www.linkedin.com/in/voiscornerstone/">IT Professional & Cloud Administrator</a> 👋🏾</h1>
 
 <h2>👨🏾‍💻 Information Technology Projects:</h2>
 
